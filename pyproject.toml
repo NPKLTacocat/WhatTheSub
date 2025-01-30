@@ -1,0 +1,7 @@
+[project]
+name = "whatthesub"
+version = "0.1.0"
+dependencies = [
+    "googletrans==4.0.2",
+    "pytest-asyncio",
+]

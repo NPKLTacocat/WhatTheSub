@@ -1,0 +1,8 @@
+mss
+easyocr
+googletrans
+pytesseract
+opencv-python
+pytest
+python-dotenv
+pytest-asyncio
