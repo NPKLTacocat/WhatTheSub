@@ -1,6 +1,6 @@
 # WhatTheSub: Live Subtitle Translation Tool
 
-[![CI/CD](https://github.com/yourusername/WhatTheSub/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/yourusername/WhatTheSub/actions)
+[![CI/CD](https://github.com/NPKLTacocat/WhatTheSub/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/NPKLTacocat/WhatTheSub/actions)
 
 A real-time subtitle translation system that captures screen content, extracts text using OCR, translates it, and displays translations in an overlay window.
 
